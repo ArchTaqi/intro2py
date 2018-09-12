@@ -1,2 +1,10 @@
 # intro2py
-Basic Python for Data Science
+
+Basic to Advanced Python for Data Science
+
+## Contents
+
+
+## Author 
+
+-- Muhammad Taqi - taqi.official@gmail.com
